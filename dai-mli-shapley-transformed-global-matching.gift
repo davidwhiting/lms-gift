@@ -1,0 +1,64 @@
+//::shapley-transformed-00:: 
+//Match these transformed features with their Shapley values
+//{
+//    =28_CVTE:OverTime.0          -> 0.7110
+//    =14_StockOptionLevel         -> 0.3267
+//    =26_CVTE:JobRole.0           -> 0.3009
+//    =9_MonthlyIncome             -> 0.2883
+//    =2_DistanceFromHome          -> 0.2628
+//    =10_NumCompaniesWorked       -> 0.2556
+//    =22_CVTE:BusinessTravel.0    -> 0.2495
+//    =4_EnvironmentSatisfaction   -> 0.2238
+//    =0_Age                       -> 0.2233
+//    =13_RelationshipSatisfaction -> 0.2183
+//}
+
+::shapley-transformed-01:: 
+Match these transformed features with their Shapley values
+{
+    =28_CVTE:OverTime.0 -> 0.7110
+    =14_StockOptionLevel -> 0.3267
+    =26_CVTE:JobRole.0 -> 0.3009
+    =9_MonthlyIncome -> 0.2883
+    =2_DistanceFromHome -> 0.2628
+ }
+
+::shapley-transformed-02:: 
+Match these transformed features with their Shapley values
+{
+    =10_NumCompaniesWorked -> 0.2556
+    =22_CVTE:BusinessTravel.0 -> 0.2495
+    =4_EnvironmentSatisfaction -> 0.2238
+    =0_Age -> 0.2233
+    =13_RelationshipSatisfaction -> 0.2183
+}
+
+::shapley-transformed-03:: 
+Match these transformed features with their Shapley values
+{
+    =14_StockOptionLevel -> 0.3267
+    =9_MonthlyIncome -> 0.2883
+    =10_NumCompaniesWorked -> 0.2556
+    =4_EnvironmentSatisfaction -> 0.2238
+    =13_RelationshipSatisfaction -> 0.2183
+}
+
+::shapley-transformed-04:: 
+Match these transformed features with their Shapley values
+{
+    =28_CVTE:OverTime.0 -> 0.7110
+    =26_CVTE:JobRole.0 -> 0.3009
+    =2_DistanceFromHome -> 0.2628
+    =22_CVTE:BusinessTravel.0 -> 0.2495
+    =0_Age -> 0.2233
+}
+
+::shapley-transformed-05:: 
+Match these transformed features with their Shapley values
+{
+    =14_StockOptionLevel -> 0.3267
+    =26_CVTE:JobRole.0 -> 0.3009
+    =2_DistanceFromHome -> 0.2628
+    =10_NumCompaniesWorked -> 0.2556
+    =0_Age -> 0.2233
+}

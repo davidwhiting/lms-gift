@@ -1,0 +1,108 @@
+// Global Shapley Values
+//
+//  OverTime                 = 0.7110
+//  StockOptionLevel         = 0.3267
+//  JobRole                  = 0.3009
+//  MonthlyIncome            = 0.2883
+//  DistanceFromHome         = 0.2628
+//  NumCompaniesWorked       = 0.2556
+//  BusinessTravel           = 0.2495
+//  EnvironmentSatisfaction  = 0.2238
+//  Age                      = 0.2233
+//  RelationshipSatisfaction = 0.2183
+
+
+//::shapley-original-global-source-01::
+What is the Shapley value for **OverTime**? 
+{   = 0.7110
+    ~ 0.3267
+    ~ 0.3009
+    ~ 0.2883
+    ~ 0.2628
+}
+
+//::shapley-original-global-source-02::
+What is the Shapley value for **StockOptionLevel**? 
+{   ~ 0.7110
+    = 0.3267
+    ~ 0.3009
+    ~ 0.2883
+    ~ 0.2238
+}
+
+//::shapley-original-global-source-03::
+What is the Shapley value for **JobRole**? 
+{   ~ 0.7110
+    ~ 0.3267
+    = 0.3009
+    ~ 0.2883
+    ~ 0.2495
+}
+
+//::shapley-original-global-source-04::
+What is the Shapley value for **MonthlyIncome**? 
+{   
+    ~ 0.3267
+    ~ 0.3009
+    = 0.2883
+    ~ 0.2628
+    ~ 0.2238
+}
+
+//::shapley-original-global-source-05::
+What is the Shapley value for **DistanceFromHome**? 
+{   
+    ~ 0.3267
+    ~ 0.2883
+    = 0.2628
+    ~ 0.2556
+    ~ 0.2495
+}
+
+//::shapley-original-global-source-06::
+What is the Shapley value for **NumCompaniesWorked**? 
+{   ~ 0.7110
+    ~ 0.3009
+    ~ 0.2883
+    = 0.2556
+    ~ 0.2233
+}
+
+//::shapley-original-global-source-07::
+What is the Shapley value for **BusinessTravel**? 
+{   ~ 0.7110
+    ~ 0.2883
+    ~ 0.2628
+    = 0.2495
+    ~ 0.2233
+}
+
+//::shapley-original-global-source-08::
+What is the Shapley value for **EnvironmentSatisfaction**? 
+{
+    ~ 0.3267
+    ~ 0.2628
+    ~ 0.2495
+    = 0.2238
+    ~ 0.2233
+}
+
+//::shapley-original-global-source-09::
+What is the Shapley value for **Age**? 
+{   
+    ~ 0.3267
+    ~ 0.3009
+    ~ 0.2556
+    ~ 0.2238
+    = 0.2233
+}
+
+//::shapley-original-global-source-10::
+What is the Shapley value for **RelationshipSatisfaction**? 
+{
+    ~ 0.2883
+    ~ 0.2628
+    ~ 0.2238
+    ~ 0.2233
+    = 0.2183 
+}

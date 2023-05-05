@@ -1,0 +1,19 @@
+What is the Feature Importance value for row 238 for
+
+What is the Feature Importance value for row 99 for **Overtime**?         { =1.0 ~0.3 ~0.299 ~0.249 ~0.196 }
+What is the Feature Importance value for row 99 for **MonthlyIncome**?    { ~1.0 =0.3 ~0.299 ~0.249 ~0.196 }
+What is the Feature Importance value for row 99 for **MaritalStatus**?    { ~1.0 ~0.3 =0.299 ~0.249 ~0.196 }
+What is the Feature Importance value for row 99 for **JobLevel**?         { ~1.0 ~0.3 ~0.299 =0.249 ~0.196 }
+What is the Feature Importance value for row 99 for **StockOptionLevel**? { ~1.0 ~0.3 ~0.299 ~0.249 =0.196 }
+
+What is the Feature Importance value for row 238 for **Overtime**?      { =1.0 ~0.694 ~0.508 ~0.399 ~0.244 }
+What is the Feature Importance value for row 238 for **MaritalStatus**? { ~1.0 =0.694 ~0.508 ~0.399 ~0.244 }
+What is the Feature Importance value for row 238 for **JobRole**?       { ~1.0 ~0.694 =0.508 ~0.399 ~0.244 }
+What is the Feature Importance value for row 238 for **MonthlyIncome**? { ~1.0 ~0.694 ~0.508 =0.399 ~0.244 }
+What is the Feature Importance value for row 238 for **JobLevel**?      { ~1.0 ~0.694 ~0.508 ~0.399 =0.244 }
+
+
+
+
+// Local
+{ ~1.0 ~0.3 ~0.299 ~0.249 ~0.196 }

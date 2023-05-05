@@ -1,0 +1,9 @@
+::summary-build-features-scored::How many features were scored during the course of the experiment build?{=92}
+
+::summary-build-features-selected::How many features were selected for the experiment build?{=23}
+
+::summary-model-feature-tuning::How many models were built for model and feature tuning?{=55}
+
+::summary-model-feature-evolution::How many models were built for feature evolution?{=222}
+
+::summary-model-final-pipeline::How many models were built for final pipeline training?{=6}
